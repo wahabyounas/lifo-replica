@@ -4,7 +4,7 @@
 // PreLoader
 setTimeout(function(){
 	$('.loader-wrap').fadeToggle();
-  }, 1000);
+  }, 3000);
 
 // Sticky Navbar
 window.onscroll = function() {myFunction()};
